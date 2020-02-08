@@ -1,8 +1,5 @@
 package com.wookchoi.sbweb.springboot.domain.posts;
 
-import com.wookchoi.sbweb.springboot.domain.posts.Posts;
-import com.wookchoi.sbweb.springboot.domain.posts.PostsRepository;
-import javafx.geometry.Pos;
 import org.junit.After;
 import org.junit.Test;
 import org.junit.runner.RunWith;
